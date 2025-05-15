@@ -143,9 +143,10 @@ This course equips you with the technical and practical knowledge to build effic
 
 ___
 
-##  **Author**
+## 👤 Author
 
-** Asmaa Hamami**
+**Asmaa Hamami**  
+> Junior Data Engineer
 
 
 
